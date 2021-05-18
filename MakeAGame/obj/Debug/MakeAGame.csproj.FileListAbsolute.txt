@@ -1,0 +1,7 @@
+G:\PTC QUARTERS\Quarter 5\GUI\MakeAGame\bin\Debug\MakeAGame.exe.config
+G:\PTC QUARTERS\Quarter 5\GUI\MakeAGame\bin\Debug\MakeAGame.exe
+G:\PTC QUARTERS\Quarter 5\GUI\MakeAGame\bin\Debug\MakeAGame.pdb
+G:\PTC QUARTERS\Quarter 5\GUI\MakeAGame\obj\Debug\MakeAGame.csprojAssemblyReference.cache
+G:\PTC QUARTERS\Quarter 5\GUI\MakeAGame\obj\Debug\MakeAGame.csproj.CoreCompileInputs.cache
+G:\PTC QUARTERS\Quarter 5\GUI\MakeAGame\obj\Debug\MakeAGame.exe
+G:\PTC QUARTERS\Quarter 5\GUI\MakeAGame\obj\Debug\MakeAGame.pdb

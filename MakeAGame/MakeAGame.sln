@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeAGame", "MakeAGame.csproj", "{4E6CCB42-9BE0-4290-8716-79224CE29EDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E6CCB42-9BE0-4290-8716-79224CE29EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E6CCB42-9BE0-4290-8716-79224CE29EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E6CCB42-9BE0-4290-8716-79224CE29EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E6CCB42-9BE0-4290-8716-79224CE29EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1F2B489-6D7E-48BB-891A-8B375CB1D1E1}
+	EndGlobalSection
+EndGlobal
